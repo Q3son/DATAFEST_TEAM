@@ -1,0 +1,14 @@
+# datos del concurso y artefactos regenerables
+*.csv
+!reportes/*.csv
+salida/
+*.pkl
+*.zip
+*.bak
+# python / editor
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
